@@ -1,0 +1,1 @@
+ALTER TABLE "conference" DROP COLUMN IF EXISTS "year";

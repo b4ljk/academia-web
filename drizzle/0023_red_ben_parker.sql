@@ -1,0 +1,1 @@
+ALTER TABLE "committees" ADD COLUMN "type" "commitee_type_enum" DEFAULT 'COMMITTEE';

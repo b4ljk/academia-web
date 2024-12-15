@@ -1,0 +1,1 @@
+ALTER TABLE "submission_file" ALTER COLUMN "paper_file" DROP NOT NULL;

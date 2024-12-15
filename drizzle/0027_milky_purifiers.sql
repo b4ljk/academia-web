@@ -1,0 +1,1 @@
+ALTER TABLE "agenda" ALTER COLUMN "title" DROP NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE "venue" ALTER COLUMN "name" SET DEFAULT 'Conference Venue';
